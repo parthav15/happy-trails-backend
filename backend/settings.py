@@ -19,6 +19,7 @@ INSTALLED_APPS = [
     'corsheaders',
 
     'emotion',
+    'community',
 ]
 
 AUTH_USER_MODEL = 'emotion.CustomUser'
